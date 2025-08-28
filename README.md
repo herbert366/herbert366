@@ -1,6 +1,6 @@
 ## Hi, About Me👋
 
-_I'm developing defective code since **2001**._
+_I'm developing defective code since **2021**._
 
 > *"A man cannot be judged by his mistakes, just as code cannot be judged by its bugs."*
 
